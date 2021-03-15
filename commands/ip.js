@@ -4,7 +4,7 @@ exports.run = async (client, message, agrs) =>{
 message.delete();
 const content = agrs.join(" ");
 
-    var canal = message.guild.channels.cache.find(ch => ch.id === "786862669013057566")
+    var canal = message.guild.channels.cache.find(ch => ch.id === "YOUR CLASS!")
     const msg = await canal.send(
         new Discord.MessageEmbed()
         .setColor("#ff0000")

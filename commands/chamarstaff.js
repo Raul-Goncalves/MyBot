@@ -9,7 +9,7 @@ if(!agrs[0]){
 }else if(content.lenght > 1000){
     return message.channel.send(`${message.author.username}, Sua duvida tem que ter pelo menos  1000 palavras!`)
 }else{
-    var canal = message.guild.channels.cache.find(ch => ch.id === "YOUR CLASS");
+    var canal = message.guild.channels.cache.find(ch => ch.id === "YOUR CLASS!");
     const msgstaff = await canal.send(
         new Discord.MessageEmbed()
         .setColor("#ff0000")

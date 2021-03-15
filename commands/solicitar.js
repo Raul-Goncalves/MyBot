@@ -13,7 +13,7 @@ exports.run = async (client, message, agrs) =>{
 
     if(!agrs[0]) return message.channel.send(comoUsar)
 else{
-var canal = message.guild.channels.cache.find(ch => ch.id === "786903793228709939");
+var canal = message.guild.channels.cache.find(ch => ch.id === "YOUR CLASS!");
     const msg = await canal.send(
         new Discord.MessageEmbed()
         .setColor("#ff0000")
