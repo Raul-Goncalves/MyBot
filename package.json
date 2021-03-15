@@ -1,7 +1,7 @@
 {
-  "name": "lkup",
+  "name": "lookup",
   "version": "0.0.2",
-  "description": "bot simple bot for your server!",
+  "description": "My simple bot of discord server!",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
