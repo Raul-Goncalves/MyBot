@@ -53,12 +53,12 @@ client.on("guildMemberAdd", member =>{
         
         Olá ${member}. Sejá bem vindos ao Lookup, um universo repleto de aventuras e criaturas misteriosas. O seu objetivo é sobreviver nesse mundo desconhecido! Boa sorte!
 
-        SPOILERS DO SERVIDOR <#786901912732958761> 
-        REGISTRAR FACÇÃO <#813197999168684093>
-        CHAT GERAL <#786727919807365153>`)
+        SPOILERS DO SERVIDOR <#YOUR CLASS> 
+        REGISTRAR FACÇÃO <#YOUR CLASS>
+        CHAT GERAL <#YOUR CLASS>`)
         .setImage(randomImages)
-    member.guild.channels.cache.get('786728572110503947').send(bemvindoEmbed);
-    member.roles.add('693961098398793828');
+    member.guild.channels.cache.get('YOUR CLASS').send(bemvindoEmbed);
+    member.roles.add('YOUR CLASS');
 
 });
 
