@@ -18,3 +18,8 @@ This application is fully customized and very well developed entirely in
 
 - 💹 **JavaScript** — A JavaScript library for building user interfaces
 - 💹 **Discord.Js** — library entirely from discord
+
+![Function 1°](https://media.giphy.com/media/CNFnEr9PYup1jsHyj9/giphy.gif)
+![Function 2°](https://media.giphy.com/media/D12voGFnK1aI1vxsBt/giphy.gif)
+![Function 3°](https://media.giphy.com/media/ClvpRRdsmzWKHtqbL5/giphy.gif)
+![Function 4°](https://media.giphy.com/media/AltTqxFldXEELabQHE/giphy.gif)

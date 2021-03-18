@@ -62,6 +62,4 @@ client.on("guildMemberAdd", member =>{
 
 });
 
-
-
 client.login(config.token); 
